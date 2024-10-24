@@ -1,0 +1,7 @@
+Wallmon is a powerful OPNsense monitoring and management tool designed to
+provide centralized oversight of multiple OPNsense systems. It enables
+administrators to monitor network health, analyze traffic patterns, and
+receive real-time alerts, making it easy to optimize and secure OPNsense
+deployments from a single interface.
+
+LICENSE: MIT
