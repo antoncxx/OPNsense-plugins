@@ -1,0 +1,7 @@
+<menu>
+	<Services>
+		<Wallmon cssClass="fa fa-area-chart">
+			<General order="10" url="/ui/wallmon/general/index"/>
+		</Wallmon>
+	</Services>
+</menu>

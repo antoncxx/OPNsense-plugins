@@ -1,0 +1,9 @@
+<acl>
+	<page-services-wallmon>
+		<name>Services: Wallmon</name>
+		<patterns>
+			<pattern>ui/wallmon/*</pattern>
+			<pattern>api/wallmon/*</pattern>
+		</patterns>
+	</page-services-wallmon>
+</acl>

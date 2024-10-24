@@ -1,5 +1,5 @@
 <model>
-	<mount>//OPNsense/wallmon</mount>
+	<mount>//OPNsense/wallmon/general</mount>
 	<description>
 		WallMon - Centralized Firewall Configuration and Monitoring
 	</description>

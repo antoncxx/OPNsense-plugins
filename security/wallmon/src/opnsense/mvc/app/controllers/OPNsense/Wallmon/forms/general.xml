@@ -1,28 +1,25 @@
 <form>
 	<field>
-		<id>wallmon.general.Enabled</id>
+		<id>general.Enabled</id>
 		<label>Enabled</label>
 		<type>checkbox</type>
 		<help>Enable wallmon</help>
 	</field>
-
 	<field>
-		<id>wallmon.general.ServerUrl</id>
+		<id>general.ServerUrl</id>
 		<label>Server URL</label>
 		<type>text</type>
 		<help>Wallmon server URL</help>
 	</field>
-
 	<field>
-		<id>wallmon.general.Interface</id>
+		<id>general.Interface</id>
 		<label>Interface</label>
 		<type>select</type>
 		<help>Select a network interface</help>
 		<options>interfaces</options>
 	</field>
-
 	<field>
-		<id>wallmon.general.HeartbeatInterval</id>
+		<id>general.HeartbeatInterval</id>
 		<label>Heartbeat Interval</label>
 		<type>text</type>
 		<help>Heartbeat interval, sec</help>
