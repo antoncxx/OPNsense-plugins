@@ -14,9 +14,8 @@
 	<field>
 		<id>general.Interface</id>
 		<label>Interface</label>
-		<type>select</type>
+		<type>dropdown</type>
 		<help>Select a network interface</help>
-		<options>interfaces</options>
 	</field>
 	<field>
 		<id>general.HeartbeatInterval</id>

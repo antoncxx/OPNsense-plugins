@@ -13,7 +13,11 @@ class GeneralController extends ApiControllerBase
 	{
 		$result = array();
 
-		// TODO: Implement
+		if ($this->request->isGet())
+		{
+			$mdlGeneral = new General();
+			$result['general'] = $mdlGeneral->getNodes();
+		}
 		
 		return $result;
 	}
